@@ -28,6 +28,7 @@ Clone this repository and submodules:
 
 ```bash
 git clone https://github.com/aws-samples/disaster-recovery-workshop.git
+cd ./disaster-recovery-workshop
 git submodule init
 git submodule update
 ```
